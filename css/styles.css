@@ -10,7 +10,14 @@ p {
 }
 h1 {
   text-align: center;
+  color: whitesmoke;
 }
 h2 {
   text-align: center;
+}
+img {
+  align-self: center;
+}
+#what-we-do.card-body h2 {
+  color: black;
 }
