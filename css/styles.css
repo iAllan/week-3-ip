@@ -17,6 +17,8 @@ h2 {
 }
 img {
   align-self: center;
+  max-width: 100%;
+  height: auto;
 }
 #what-we-do.card-body h2 {
   color: black;
