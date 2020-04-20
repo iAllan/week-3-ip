@@ -34,3 +34,9 @@ img {
 #services {
   color: whitesmoke;
 }
+.show-text {
+  display: none;
+}
+.show-img {
+  display: show;
+}
