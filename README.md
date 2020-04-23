@@ -30,5 +30,5 @@ Contact me at allenbosire@gmail.com.
 
 ### License
 
-This Project is [MIT Licensed]()
+This Project is [MIT Licensed](https://github.com/iAllan/week-3-ip/blob/master/LICENSE)
 Copyright (c) {2020}
