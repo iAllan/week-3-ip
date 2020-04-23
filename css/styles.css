@@ -40,3 +40,12 @@ img {
 .show-img {
   display: show;
 }
+#user-text {
+  width: 100%;
+  height: 200px;
+}
+#contact-us {
+  color: whitesmoke;
+  width: 100%;
+  height: 400px;
+}
